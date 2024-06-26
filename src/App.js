@@ -1,6 +1,7 @@
 import './index.js';
 import './App.css';
 import Home from './components/Home.js';
+import Cap from './components/Cap.js';
 import Navbar from './components/Navbar.js';
 import Topic1 from './components/Topic1.js';
 import React from "react";
