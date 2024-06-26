@@ -351,3 +351,19 @@ li{
 #four:active{
   color: green;
 }
+.intro{
+  height: auto;
+  width:auto;
+  background-color:transparent;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  position: relative;
+  font-size: 30px;
+}
+.space{
+  height: 150px;
+  width:260px;
+  /* background-color:#fb5607; */
+}
